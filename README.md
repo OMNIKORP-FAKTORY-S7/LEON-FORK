@@ -1,3 +1,19 @@
+# LEON-FORK
+
+## Origine
+- Fork de : **Leon**
+- Auteur : leon-ai
+- Dépôt d'origine : https://github.com/leon-ai/leon
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 <p align="center">
   <a href="https://getleon.ai"><img width="800" src="https://getleon.ai/img/hero-animation.gif" /></a>
 </p>
